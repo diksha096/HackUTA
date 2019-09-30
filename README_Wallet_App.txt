@@ -1,0 +1,1 @@
+READMEWe have submitted the following files:1. Screenshots showcasing the implementation and working of the wallet using libnspv2. Log files for Smart chains 1 and 2 showcasing the success of the result3. Dataset for NGOs4. NGO_Recommendation_System.ipynb file showcasing the implementation of the NGOs ratings given by users.5. Languages Used-Python
